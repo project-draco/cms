@@ -9,7 +9,7 @@ This is a maven version of the project HeuristicDesign, available in the followi
 
 To build and install this project, proceed as a conventional maven library.
 
-````{shell}
+```console
 $ mvn clean package install 
 ```
 
